@@ -7,4 +7,6 @@ My experiences: I have completed 2 intenships on frontend development using HTML
 Contact me:Email: priyangsudasjpg@gmail.com  Mobile.no: 9832162791  Residential adress: NewTown,Kolkata-700135,West Bengal
 <br>
 Linkedin: https://www.linkedin.com/in/priyangsu-das-65915128a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF1Fi2BzLSvu4brW%2FfMsOfg%3D%3D
+<br>
+Certificates: https://drive.google.com/drive/folders/1k7WlDJu9eh6pd7-wBRHatIWkINOtyjvg?usp=sharing
 
