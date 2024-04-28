@@ -1,4 +1,4 @@
-My self Priyangsu Das. Currently I am studying in B.Tech honours on Computer Science and Engineering from University of Engineering and Managemt.
+My self Priyangsu Das. Currently I am studying in B.Tech honours on Computer Science and Engineering from University of Engineering and Management.
 <br>
 I have skills on Programming Language like C,C++,CoreJava,Python and also know in wb development domain HTML, CSS, Javascript, PHP, Mysql.
 <br>
